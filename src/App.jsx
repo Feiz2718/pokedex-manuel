@@ -8,7 +8,7 @@ function App() {
       <h1>Pokedex-manuel</h1>
       <h2>Welcome to the Pokedex</h2>
       <p>Here you can find information about your favorite Pokemon</p>
-
+      <img src="" alt="" />
       <div>
         <p>Developed by Manuel Vargas Garcia</p>
         <p>2025</p>
