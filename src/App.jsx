@@ -10,7 +10,7 @@ function App() {
       <p>Here you can find information about your favorite Pokemon</p>
       <img src="" alt="" />
       <div>
-        <p>Developed by Manuel Vargas Garcia</p>
+        <p>Developed by Manuel vargas Garcia</p>
         <p>2025</p>
         <p>All rights reserved</p>
       </div>
